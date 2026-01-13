@@ -35,23 +35,15 @@ On design (read at least one):
 
 On data viz (look at all):
 
-* [Deciding Which and How Much Data to Visualize](https://trinachi.github.io/data-design-builds/ch12.html)
-* [Data Aggregation and Exploratory Data Visualization](https://doi.org/10.1007/978-3-031-46976-3_5)
 
 ## Thursday, February 19th, 2026
 
 * icebreaker:
-* finding data 
-* data visualization 
-* [slides](https://docs.google.com/presentation/d/1JNr7gSEfZe5ChFo2uGpLjlJqJCSSQFLVQosIP76Cxzc/edit?usp=sharing)
+* design
 * WordPress work
 
 
 ## Week 6 Assignments - Due Tuesday at 12pm
-
-### Exploratory Data Viz
-
-See Assignment Description
 
 ### Blog post #6 - Website Genealogy
 

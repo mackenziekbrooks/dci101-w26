@@ -1,4 +1,5 @@
 ## Specifications Grading
+
 The assignment and grading structure for this course might be a little different than what you're used to. In this course, we'll use something called *Specifications Grading*. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every little point. 
 
 So rather than assign points or grades, I will mark each assignment as Complete/Incomplete according to a set of specifications. 
@@ -20,10 +21,10 @@ You're not expected to be perfect at every assignment! To help you recover from 
 
 |To earn a...|Complete the following|
 |---|---|
-|A| 9 weekly activity logs<br /> 12 blog posts<br />  6 project pieces|
-|A-| 8 weekly activity logs<br /> 11 blog posts <br /> 6 project pieces|
-|B+| 7 weekly activity logs<br />  10 blog posts<br />  5 project pieces|
-|B| 6 weekly activity logs<br />  9 blog posts<br />  4 project pieces|
+|A| 9 weekly activity logs<br /> 12 blog posts<br />  5 project pieces|
+|A-| 8 weekly activity logs<br /> 11 blog posts <br /> 4 project pieces|
+|B+| 7 weekly activity logs<br />  10 blog posts<br />  3 project pieces|
+|B| 6 weekly activity logs<br />  9 blog posts<br />  3 project pieces|
 |B-| 5 weekly activity logs<br />  8 blog posts<br />  3 project pieces|
 |C+| 4 weekly activity logs<br />  7 blog posts <br />  2 project pieces|
 |C| 3 weekly activity logs<br />  6 blog posts <br />  2 project pieces|

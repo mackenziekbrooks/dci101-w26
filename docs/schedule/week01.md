@@ -7,7 +7,7 @@ In our first week, let's unpack what we even mean by digital culture and informa
 
 Agenda:
 
-* Before class, take this getting to know you [survey]().
+* Before class, take this getting to know you [survey](https://forms.gle/iptoLaSh8no6HhnNA).
 * ice breaker: 
 	1. Name
 	2. Where you're from
@@ -32,24 +32,25 @@ Agenda:
 
 ## Tuesday, January 13th, 2026
 
-* Icebreaker: favorite sandwich
+* icebreaker: 
 * Discussion - what is data? information? digital? Let's work on defining terms and understanding how they fit together.
 * Part 1: What is data, information, knowledge, and wisdom? At your table, brainstorm 1) keywords 2) your own definitions and 3) definitions from our readings or elsewhere on the web. Add them to the white board. 
 * Part 2: What does David Weinberger say about the DIKW hierarchy? How has "the digital" changed the nature of these concepts? Work in your group to come up with a new model/visual/illustration for the DIKW hierarchy that accounts for Weinberger's arguments. Here are two examples: [Iraq War Wikihistoriography](https://jamesbridle.com/works/iraq-war-wikihistoriography) and [@congresstweets](http://opentranscripts.org/transcript/congressedits-politics-wikipedia-twitter/)
 * Part 3: Each group will be assigned a topic.
 	* Visit the Wikipedia page for your assigned topic.
-		* https://en.wikipedia.org/wiki/James_Earl_Jones
-		* https://en.wikipedia.org/wiki/Federal_Emergency_Management_Agency
-		* https://en.wikipedia.org/wiki/2024_United_States_presidential_debates
+		* https://en.wikipedia.org/wiki/William_Shakespeare
+		* https://en.wikipedia.org/wiki/United_States_Department_of_Education
+		* https://en.wikipedia.org/wiki/Greenland
 		* https://en.wikipedia.org/wiki/Washington_and_Lee_University
 	* Skim the article. Get a sense for how complete it is. Anything that seems controversial or unfinished or undecided?
 	* Check out the View History and Talk pages using the tabs in the upper middle of the page. 
+	* What does AI (in Google results, or elsewhere) say about this topic? Are sources cited? 
 	* Discuss the following:
 		* How is knowledge made in this article? How is it organized?
 		* What about this topic is still under negotiation? 
 		* How was data used? 
 		* What was surprising? Problematic? What was left out?
-* Activity 1.2 - Domain + WordPress setup, see [instructions](https://mackenziekbrooks.github.io/dci101-f24/domain/#domain-instructions)
+* Activity 1.2 - Domain + WordPress setup, see [instructions](https://mackenziekbrooks.github.io/dci101-w26/domain/#domain-instructions)
 
 
 ### Prep for Thursday

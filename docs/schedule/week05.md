@@ -43,9 +43,16 @@
         * From the menu, go to Insert > Chart. A window pops up and makes suggestions for you. Spend some time with these options!
 
 
+## Read for Thursday:
+
+* [Deciding Which and How Much Data to Visualize](https://trinachi.github.io/data-design-builds/ch12.html)
+* [Data Aggregation and Exploratory Data Visualization](https://doi.org/10.1007/978-3-031-46976-3_5)
+
+
 ## Thursday, February 12th, 2026
 
-* not break
+* data visualization day 
+* slides
 
 ## Week 5 Assignments - Due Tuesday at 12pm
 

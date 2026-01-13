@@ -12,7 +12,7 @@ The course website is a living document. It will change regularly to reflect the
 Prof. Mackenzie Brooks (she/her)
 brooksm [at] wlu.edu 
 
-Office hours: TR 1-2pm. Or just contact to schedule a time! 
+Office hours: TR 1-2pm or after class. Reach out to schedule another time, I'm typically in the office 9-5 M-F.  
 
 
 ## Course description
